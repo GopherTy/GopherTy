@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @GopherTy
-- 🌱 I’m currently learning ...
 
